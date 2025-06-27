@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
@@ -7,3 +8,13 @@
 		<priority>1.0</priority>
 	</url>
 </urlset>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://<username>.github.io/procreate-brush-gift/</loc>
+    <lastmod>2025-06-26</lastmod>
+    <priority>1.0</priority>
+  </url>
+</urlset>
+>>>>>>> 03c9d7a46d6ea4fcc4c0a877863f55b3a5cf87bb
