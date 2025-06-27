@@ -1,0 +1,48 @@
+﻿{
+  "brushSet": {
+    "name": "Custom Ibis & SamDoesArts Set",
+    "brushes": [
+      {
+        "name": "Japanese Pen (Hard)",
+        "shape": "Round with Jitter",
+        "jitter": 15,
+        "streamline": 30,
+        "taper": 50,
+        "maxSizePercent": 10,
+        "reference": "Ibis Paint Japanese Pen (Hard), jittery; HiPaint Ink Brush",
+        "alternative": "https://candyinjection.gumroad.com/l/ibispaintxlikebrushpack"
+      },
+      {
+        "name": "Soft School Pen",
+        "shape": "Soft Round",
+        "jitter": 5,
+        "streamline": 40,
+        "taper": 10,
+        "maxSizePercent": 20,
+        "reference": "Ibis Paint Soft School Pen, smooth; HiPaint Pencil Brush",
+        "alternative": "https://folio.procreate.com/discussions/10/28/43200"
+      },
+      {
+        "name": "Fountain Pen",
+        "shape": "Calligraphic Taper",
+        "jitter": 0,
+        "streamline": 50,
+        "taper": 70,
+        "maxSizePercent": 15,
+        "reference": "Ibis Paint Fountain Pen, calligraphic; HiPaint Calligraphy Brush",
+        "alternative": "https://candyinjection.gumroad.com/l/ibispaintxlikebrushpack"
+      },
+      {
+        "name": "SamDoesArts Smudge (Placeholder)",
+        "shape": "Hard Blend",
+        "smudgeStrength": 60,
+        "scatter": 10,
+        "streamline": 40,
+        "maxSizePercent": 30,
+        "reference": "Ibis Paint Bleed, ultra-smooth textured blends; HiPaint Soft Brush",
+        "alternative": "https://eisa52.gumroad.com/l/eisasketchprocreatebrushes or https://www.patreon.com/Samdoesarts"
+      }
+    ],
+    "instructions": "Custom set! Import Custom_Ibis_SamDoesArts.brushset into Procreate. For SamDoesArts’ smudge brush, subscribe to his Patreon."
+  }
+}
